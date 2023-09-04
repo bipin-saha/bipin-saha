@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Learning based Vehicle Recognition, Super Shop Automation**
 
-- 👨‍💻 All of my projects are available at [https://bipinsaha.live](https://bipinsaha.live)
+- 👨‍💻 All of my projects are available at [https://bipinsaha.info](https://bipinsaha.info)
 
 - 📫 How to reach me **bipinsaha.bd@gmail.com**
 
