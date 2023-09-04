@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipin-saha" alt="bipin-saha" /></a> </p>
-
 - 🔭 I’m currently working on **Deep Learning based Vehicle Recognition, Super Shop Automation**
 
 - 👨‍💻 All of my projects are available at [https://bipinsaha.live](https://bipinsaha.live)
