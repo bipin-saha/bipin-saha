@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bipin Saha</h1>
-<h3 align="center">A Computer Vision/Deep Learning Enthusiast from Bangladesh</h3>
+<h3 align="center">👯 I’m looking for MS/PhD position in Robotics, Computer Vision, Autonomous Vehicle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipin-saha" alt="bipin-saha" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning based Vehicle Recognition, Super Shop Automation**
-
-- 🌱 I’m currently learning **PyTorch, Tensorflow workflow, AWS Machine Learning Deployment**
-
-- 👯 I’m looking for **MS/PhD position**
 
 - 👨‍💻 All of my projects are available at [https://bipinsaha.live](https://bipinsaha.live)
 
