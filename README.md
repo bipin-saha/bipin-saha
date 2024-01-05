@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning based Vehicle Recognition, Super Shop Automation**
+- 🔭 I’m currently working as **Machine Learning Engineer, Business Automation Ltd.**
 
 - 👨‍💻 All of my projects are available at [https://bipinsaha.info](https://bipinsaha.info)
 
