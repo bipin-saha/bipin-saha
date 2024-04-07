@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Machine Learning Engineer, Business Automation Ltd.**
 
-- 👨‍💻 All of my projects are available at [https://bipinsaha.info](https://bipinsaha.info)
+- 👨‍💻 All of my projects are available at [https://bipin-saha.github.io](https://bipin-saha.github.io)
 
 - 📫 How to reach me **bipinsaha.bd@gmail.com**
 
