@@ -2,6 +2,7 @@
 <h3 align="center">👯 I’m looking for MS/PhD position in Robotics, Computer Vision, Autonomous Vehicle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
+<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/sahabipin?theme=dark&font=Montserrat)](https://leetcode.com/u/sahabipin/) -->
 
 - 🔭 I’m currently working as **Machine Learning Engineer, Business Automation Ltd.**
 
