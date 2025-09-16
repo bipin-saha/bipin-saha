@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipin Saha</h1>
-<h3 align="center">👯 Incoming Ph.D. student at North Carolina A&T State University researching multimodal generative AI for event reasoning and vision-enabled robotics.</h3>
+<h3 align="center">👯Graduate Research Assistant, ACCESS LAB | Ph.D. student at NC A&T State University researching multimodal generative AI for event reasoning and vision-enabled robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
 <!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/sahabipin?theme=dark&font=Montserrat)](https://leetcode.com/u/sahabipin/) -->
