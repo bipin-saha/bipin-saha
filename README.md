@@ -1,28 +1,88 @@
-<h1 align="center">Hi 👋, I'm Bipin Saha</h1>
-<h3 align="center">👯Graduate Research Assistant, ACCESS LAB | Ph.D. student at NC A&T State University researching autonomous vehicle perception — camera-LiDAR sensor fusion, adverse weather robustness, and vision-language models.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-saha&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-saha" /> </p>
-<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/sahabipin?theme=dark&font=Montserrat)](https://leetcode.com/u/sahabipin/) -->
+# Bipin Saha
 
-- 🔭 Previously worked as **Machine Learning Engineer, Business Automation Ltd.**
+**Autonomous-driving perception researcher** · 2nd Year PhD Student, Electrical & Computer Engineering
+[North Carolina A&T State University](https://www.ncat.edu/) · [ACCESS Lab](https://www.accesslab.net/) · Greensboro, NC
 
-- 👨‍💻 All of my projects are available at [https://bipin-saha.github.io](https://bipin-saha.github.io)
+*Making self-driving perception more robust, data-efficient, and explainable.*
 
-- 📫 How to reach me **bipinsaha.bd@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-bipin--saha.github.io-16130f?style=for-the-badge&logo=githubpages&logoColor=white)](https://bipin-saha.github.io)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=3oJ0SboAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bipinsaha/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/bipinsaha)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sahabipin)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saha_bipin)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saha_bipin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saha_bipin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bipinsaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bipinsaha/" height="30" width="40" /></a>
-</p>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenMMLab](https://img.shields.io/badge/OpenMMLab-3766AB?style=for-the-badge&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bipin-saha&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bipin-saha&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-saha&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bipin-saha&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔬 Research Focus
+
+| | |
+|---|---|
+| **Multimodal fusion** | Camera–LiDAR / BEV fusion for 3D object detection and scene understanding |
+| **Data-efficient perception** | Self-supervised and unsupervised learning to cut dependence on labeled data |
+| **Robust & explainable detection** | Adverse weather, complex scenes, underrepresented regions, XAI diagnostics |
+| **Vision-language models** | VLMs and reasoning-driven decision-making for driving perception |
+
+## 📰 News
+
+- **Feb 2026**: 🎉 Paper accepted at **IEEE QPAIN 2026**: *Comparative Evaluation of CNN, Transformer, and Vision-Language Approaches for Vehicle Detection in Complex Scenarios*
+- **Mar 2026**: Talk, *AV: You Need to Know*, IEEE RAS RUSBC
+- **Aug 2025**: Joined the ACCESS Lab as Graduate Research Assistant (PhD, ECE)
+
+## 📄 Selected Publications
+
+- **Comparative Evaluation of CNN, Transformer, and Vision-Language Approaches for Vehicle Detection in Complex Scenarios**, *IEEE QPAIN 2026*
+- **Enhancing Vehicle Detection in Adverse Weather with a Weighted YOLO Ensemble and Explainable AI**, *IEEE QPAIN 2025* · [DOI](https://doi.org/10.1109/QPAIN66474.2025.11172268)
+- **Bangladeshi Native Vehicle Detection in the Wild (BNVD)**, benchmark dataset · [arXiv:2405.12150](https://arxiv.org/abs/2405.12150)
+- **Appearance-Based Eye Gaze Estimation with 13 Directional Points**, *IC4ME2 2021* · [DOI](https://doi.org/10.1109/IC4ME253898.2021.9768643)
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=3oJ0SboAAAAJ&view_op=list_works&sortby=pubdate).
+
+## 🧪 Experience
+
+**Graduate Research Assistant**, ACCESS Lab, NC A&T · *Aug 2025 – present*
+Unsupervised LiDAR 3D detection (DBSCAN, K-means + PCA); reimplementing BEVFusion and self-supervised methods to advance camera–LiDAR fusion.
+
+**Machine Learning Engineer**, Business Automation Ltd. · *Dec 2023 – Feb 2025*
+Handwritten-prescription OCR + LLM pipeline (**52.68%** less manual workload, **64k+** patients); Bangla legal chatbot with agentic RAG on Llama-3 (QLoRA/QDoRA, **3.2×** lower training memory); multi-agent code-suggestion framework with LangGraph.
+
+**Assistant IoT Engineer**, Get-Aid Ltd. · *Jan 2023 – Nov 2023*
+YOLOv5/v8 retail detection across 20+ products (mAP50 **0.955**); 2R inverse-kinematics arm with PID control.
+
+## 🛠️ Selected Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [Handwritten Prescription Digitization](https://bipin-saha.github.io/project-pages/prescription-digitalization.html) | PaddleOCR, TrOCR, YOLO, Gemma | CER 0.0951, ~2.28 s inference |
+| [End-to-End Behavioral Cloning](https://bipin-saha.github.io/project-pages/behavioral-cloning.html) | TensorFlow, PID | CNN steering + PID speed control in simulation |
+| Slab Bend Detection & Tracking (Tata Steel) | YOLO, multithreading | Real-time multi-camera anomaly alerts |
+| RRT Path Planning from Scratch | NumPy, PyGame | Collision-aware 2D planning, visualized |
+| KUKA Conveyor Sorting | CoppeliaSim, Lua | IK-based pick-and-place |
+
+More at **[bipin-saha.github.io](https://bipin-saha.github.io)** · technical writeups on [BEV fusion, camera–LiDAR failure modes, self-supervised perception, and benchmarking](https://bipin-saha.github.io/writeups/).
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,linux,docker,git,githubactions,bash,vscode&theme=dark" alt="Core stack" />
+</p>
+
+**Perception:** 3D detection · BEV fusion · LiDAR clustering · self-supervised learning · explainable AI
+**LLM / VLM:** QLoRA/PEFT fine-tuning · agentic RAG · LangGraph · Milvus · Hugging Face · Ollama
+**Tooling:** OpenMMLab · CUDA · scikit-learn · NumPy/Pandas · Plotly · CoppeliaSim
+
+## 🤝 Let's Connect
+
+I'm interested in **Research Scientist and postdoc roles in autonomous-driving perception**, and always happy to talk fusion, robustness, and VLMs.
+
+📫 [bipinsaha.bd@gmail.com](mailto:bipinsaha.bd@gmail.com) · [bsaha@aggies.ncat.edu](mailto:bsaha@aggies.ncat.edu) · [CV](https://bipin-saha.github.io/resume/resume.pdf)
+
+<div align="center">
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-saha&layout=compact&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+
+</div>
