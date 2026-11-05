@@ -2,7 +2,7 @@
 
 # Bipin Saha
 
-**Autonomous-driving perception researcher** · 2nd Year PhD Student, Electrical & Computer Engineering
+**Autonomous Driving Perception Researcher** · PhD Student, Electrical & Computer Engineering
 [North Carolina A&T State University](https://www.ncat.edu/) · [ACCESS Lab](https://www.accesslab.net/) · Greensboro, NC
 
 *Making self-driving perception more robust, data-efficient, and explainable.*
